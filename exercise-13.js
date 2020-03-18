@@ -25,7 +25,7 @@ function sorting(arrNumber) {
       return ''
     }
     
-    return temp
+    return 'angka paling besar adalah ' + max + ' dan jumlah kemunculan sebanyak '+temp +' kali'
   }
   
   function mostFrequentLargestNumbers(arrNumber) {
